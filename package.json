@@ -42,7 +42,7 @@
     "emitter-steward": "^1.0.0",
     "foxy": "^11.1.2",
     "immutable": "^3.7.4",
-    "localtunnel": "^1.7.0",
+    "localtunnel": "^2.0.0",
     "lodash": "^3.9.3",
     "longest": "^1.0.1",
     "meow": "^3.3.0",
