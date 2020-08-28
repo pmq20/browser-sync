@@ -43,7 +43,7 @@
     "foxy": "^11.1.2",
     "immutable": "^3.7.4",
     "localtunnel": "^1.7.0",
-    "lodash": "^3.9.3",
+    "lodash": "^4.17.17",
     "longest": "^1.0.1",
     "meow": "^3.3.0",
     "opn": "^2.0.1",
